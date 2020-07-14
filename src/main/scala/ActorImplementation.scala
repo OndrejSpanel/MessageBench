@@ -1,7 +1,5 @@
 import akka.actor._
 
-import language.postfixOps
-
 object ActorImplementation extends Suite {
 
   private case object Ping
