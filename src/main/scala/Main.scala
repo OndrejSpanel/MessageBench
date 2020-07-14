@@ -18,4 +18,5 @@ object Main extends App {
   runSuite(FunctionCall)
   runSuite(ActorImplementation)
   runSuite(BlockingQueueImplementation)
+  runSuite(ConcurrentQueueImplementation)
 }
